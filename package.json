@@ -1,0 +1,20 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianshigeily360/storybook.git"
+  },
+  "author": "jiamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianshigeily360/storybook/issues"
+  },
+  "homepage": "https://github.com/tianshigeily360/storybook#readme",
+  "dependencies": {
+    "@storybook/vue": "^5.2.6"
+  }
+}
